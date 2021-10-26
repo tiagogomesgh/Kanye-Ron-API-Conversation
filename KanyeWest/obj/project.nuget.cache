@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qCJQZavIhbuzHA7m3PENnCzWzRtlHf7MdVOTQu8S1JdfrVwTND+OBnGpD5BWQvAltshBX0D4nyDiAE06SFzBOw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Tiago Gomes\\Desktop\\Repo\\API's & JSON\\KanyeWest\\KanyeWest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tiago Gomes\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
